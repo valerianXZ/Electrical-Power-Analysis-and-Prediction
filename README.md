@@ -5,6 +5,7 @@
 This repository contains code for time series forecasting of household power consumption data using a Long Short-Term Memory (LSTM) neural network built with TensorFlow/Keras.
 
 ## Dataset
+Hebrail, G. & Berard, A. (2006). Individual Household Electric Power Consumption [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C58K54.
 
 The dataset used is the "Household Power Consumption" dataset, which contains measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
 
