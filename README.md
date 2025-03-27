@@ -34,3 +34,26 @@ This project aims to:
 * scikit-learn
 * tensorflow
 * matplotlib
+
+## Results
+
+### Image 1
+![Output 1](Result/output1.png)
+
+### Image 2
+![Output 2](Result/output2.png)
+
+### Image 3
+![Output 3](Result/output3.png)
+
+### Image 4
+![Output 4](Result/output4.png)
+
+### Image 5
+![Output 5](Result/output5.png)
+
+### Image 6
+![Output 6](Result/output6.png)
+
+### Image 7
+![Output 7](Result/output7.png)
