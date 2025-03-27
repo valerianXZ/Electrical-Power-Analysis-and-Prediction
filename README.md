@@ -57,3 +57,6 @@ This project aims to:
 
 ### Image 7
 ![Output 7](Result/output7.png)
+
+### Image 8
+![Output 8](Result/output8.png)
